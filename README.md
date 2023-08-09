@@ -21,16 +21,14 @@ From building smart gadgets with Arduino to crafting elegant algorithms in C++, 
 
 ## Join Me on the Journey 🚀
 Feel free to explore my repositories and projects. Collaborators and fellow enthusiasts are always welcome! Let's innovate, learn, and make technology work wonders together.
-# My Computer Setup
 
-Here's a glimpse of my computer and gear setup:
 
 # <div align="center">My Computer Setup :computer: </div>
 
 <div align="center">Welcome to my GitHub profile! Here's a glimpse of my meticulously crafted computer and gear setup.</div>
 
 <p align="center">
-  
+ 
 </p>
 
 ## Computer Specifications :rocket:
