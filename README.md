@@ -21,3 +21,37 @@ From building smart gadgets with Arduino to crafting elegant algorithms in C++, 
 
 ## Join Me on the Journey 🚀
 Feel free to explore my repositories and projects. Collaborators and fellow enthusiasts are always welcome! Let's innovate, learn, and make technology work wonders together.
+# My Computer Setup
+
+Here's a glimpse of my computer and gear setup:
+
+# <div align="center">My Computer Setup :computer: </div>
+
+<div align="center">Welcome to my GitHub profile! Here's a glimpse of my meticulously crafted computer and gear setup.</div>
+
+<p align="center">
+  
+</p>
+
+## Computer Specifications :rocket:
+
+- **CPU:** Intel® Core™ i7-12700K Processor, 5.00 GHz, 12 cores / 20 threads
+- **Cooler CPU:** AIO Cooler Master MasterLiquid PL360 Flux
+- **GPU:** Asus ROG Nvidia RTX 3070 TI
+- **Motherboard:** MSI MPG Z690 EDGE WIFI DDR4
+- **RAM:** 32GB G.SKILL Trident Z RGB (3600MHz), 16GB x 2
+- **Storage (M.2):** WD Blue SN570 1TB
+- **Storage (HDD):** WD WDC WD20EZBX-00AYRA0 2TB
+- **PSU:** SEASONIC FOCUS 850W (80+ Gold)
+- **Case:** MATREXX 55 MESH
+
+## Gear & Monitors :video_game:
+
+- **Monitor 1:** Asus TUF Gaming VG27VQ 27" 165Hz 1ms
+- **Monitor 2:** Samsung C27F390 27" 60Hz
+- **Microphone:** HyperX SoloCast
+- **WebCam:** ROG Eye S
+- **Keyboard:** SteelSeries Apex Pro
+- **Headset:** Logitech PRO X
+- **Mouse:** Glorious Model O-
+- **Mouse Pad:** ARTISAN FX Hien (XLarge)
