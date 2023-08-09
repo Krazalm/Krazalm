@@ -17,10 +17,7 @@ From building smart gadgets with Arduino to crafting elegant algorithms in C++, 
 📘 Facebook: [Profile Link](https://www.facebook.com/profile.php?id=100085012578087)
 🐦 Twitter: [@mikhailagerox](https://twitter.com/mikhailagerox)
 🎥 YouTube: [notkrazalm9045](https://www.youtube.com/@notkrazalm9045)
+💬 Discord: Krazalm#0001
 
 ## Join Me on the Journey 🚀
 Feel free to explore my repositories and projects. Collaborators and fellow enthusiasts are always welcome! Let's innovate, learn, and make technology work wonders together.
-
-![Profile Banner](![photo-1505506874110-6a7a69069a08](https://github.com/Krazalm/Krazalm./assets/84464398/3bf5a385-55e6-485b-bdd7-ba767ebfb8c4)
-)
-
